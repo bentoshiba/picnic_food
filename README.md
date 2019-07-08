@@ -5,3 +5,5 @@ This is the first update after cloning locally.
 
 new line to see in diff
 adding a seventh line
+
+Will this new line about potato salad be here?
